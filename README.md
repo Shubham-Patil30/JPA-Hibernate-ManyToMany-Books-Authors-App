@@ -12,7 +12,7 @@ This project demonstrates a Many-to-Many bidirectional relationship in Hibernate
 - Java
 - JPA (Java Persistence API)
 - Hibernate ORM
-- MySQL (or any other relational database)
+- MySQL 
 - Maven for dependency management
 
 ## Project Structure
